@@ -4,7 +4,7 @@ Weather App is a GUI app in Python using Tkinter module which will tell you the 
 ## NOTE
 It requires the openweathermap's API key to run. Set the "key" variable inside weather_utils.py before running.
 
-It requires Tkinter package. Install it, after that Run using: 'python app.py'
+It requires Tkinter package. Install it, after that Run using: 'main.py'
 
 ## Weather App Screenshots
 ![](ScreenShots/SS1.png)
