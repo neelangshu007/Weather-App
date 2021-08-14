@@ -1,7 +1,12 @@
 # Weather-App
-Weather App in Python using Tkinter module is a GUI app which will tell us the current weather of a particular city along with temperature details along with other details. 
+Weather App is a GUI app in Python using Tkinter module which will tell you the current weather details of a particular city along with other details. 
 
-# Weather App Screenshots
+## NOTE
+It requires the openweathermap's API key to run. Set the "key" variable inside weather_utils.py before running.
+
+It requires Tkinter package. Install it, after that Run using: 'python app.py'
+
+## Weather App Screenshots
 ![](ScreenShots/SS1.png)
 ![](ScreenShots/SS2.png)
 ![](ScreenShots/SS3.png)
